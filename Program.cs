@@ -1,4 +1,5 @@
 ﻿using System.Linq;
+using HotelCSharp.Exceptions;
 using HotelCSharp.Interfaces;
 using HotelCSharp.models;
 
@@ -86,8 +87,13 @@ var camareiraASerPromovida = new Camareira()
     Nome = "Eugenia Lima"
 };
 
-rh.PromoverParaGerente(camareiraASerPromovida);
-camareiraASerPromovida.SeApresentar();
+try {
+    rh.PromoverParaGerente(camareiraASerPromovida);
+}
+catch (DocumentosInvalidosExceptions ex) 
+{
+    Console.WriteLine(ex.Message);
+}
 
 var recepcionistaASerPromovida = new Camareira()
 {
@@ -95,5 +101,10 @@ var recepcionistaASerPromovida = new Camareira()
     CPF = "19845634590"
 };
 
-rh.PromoverParaGerente(recepcionistaASerPromovida);
-recepcionistaASerPromovida.SeApresentar();
+try {
+    rh.PromoverParaGerente(recepcionistaASerPromovida);
+}
+catch (DocumentosInvalidosExceptions ex) 
+{
+    Console.WriteLine(ex.Message);
+}

@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using HotelCSharp.Exceptions;
 using HotelCSharp.Interfaces;
 
 namespace HotelCSharp.models
@@ -30,20 +31,32 @@ namespace HotelCSharp.models
 
         public void PromoverParaGerente(Camareira camareira)
         {
+            if(camareira.CPF != null)
+            {
             Hotel.ContratarGerente(new Gerente(){
                 Nome = camareira.Nome,
                 CPF = camareira.CPF,
                 Telefone = camareira.Telefone
             });
+            } else 
+            {
+                throw new DocumentosInvalidosExceptions("Regularize seu CPF para receber a promoção.");
+            }
         }
 
         public void PromoverParaGerente(Recepcionista recepcionista)
         {
+            if(recepcionista.CPF != null)
+            {
             Hotel.ContratarGerente(new Gerente(){
                 Nome = recepcionista.Nome,
                 CPF = recepcionista.CPF,
                 Telefone = recepcionista.Telefone
             });
+            } else 
+            {
+                throw new DocumentosInvalidosExceptions("Regularize seu CPF para receber a promoção.");
+            }
         }
     }
 }
