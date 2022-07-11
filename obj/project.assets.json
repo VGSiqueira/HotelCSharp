@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\OneDrive\\Cursos\\CSharp\\Projetos\\HotelCSharp\\HotelCSharp\\HotelCSharp.csproj",
+      "projectUniqueName": "E:\\OneDrive\\Cursos\\CSharp\\Projetos\\HotelCSharp\\HotelCSharp.csproj",
       "projectName": "HotelCSharp",
-      "projectPath": "E:\\OneDrive\\Cursos\\CSharp\\Projetos\\HotelCSharp\\HotelCSharp\\HotelCSharp.csproj",
+      "projectPath": "E:\\OneDrive\\Cursos\\CSharp\\Projetos\\HotelCSharp\\HotelCSharp.csproj",
       "packagesPath": "C:\\Users\\vnvin\\.nuget\\packages\\",
-      "outputPath": "E:\\OneDrive\\Cursos\\CSharp\\Projetos\\HotelCSharp\\HotelCSharp\\obj\\",
+      "outputPath": "E:\\OneDrive\\Cursos\\CSharp\\Projetos\\HotelCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vnvin\\AppData\\Roaming\\NuGet\\NuGet.Config"

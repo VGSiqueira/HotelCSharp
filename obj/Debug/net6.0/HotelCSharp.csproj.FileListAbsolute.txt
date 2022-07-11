@@ -1,0 +1,15 @@
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\bin\Debug\net6.0\HotelCSharp.exe
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\bin\Debug\net6.0\HotelCSharp.deps.json
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\bin\Debug\net6.0\HotelCSharp.runtimeconfig.json
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\bin\Debug\net6.0\HotelCSharp.dll
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\bin\Debug\net6.0\HotelCSharp.pdb
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\obj\Debug\net6.0\HotelCSharp.csproj.AssemblyReference.cache
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\obj\Debug\net6.0\HotelCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\obj\Debug\net6.0\HotelCSharp.AssemblyInfoInputs.cache
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\obj\Debug\net6.0\HotelCSharp.AssemblyInfo.cs
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\obj\Debug\net6.0\HotelCSharp.csproj.CoreCompileInputs.cache
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\obj\Debug\net6.0\HotelCSharp.dll
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\obj\Debug\net6.0\refint\HotelCSharp.dll
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\obj\Debug\net6.0\HotelCSharp.pdb
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\obj\Debug\net6.0\HotelCSharp.genruntimeconfig.cache
+E:\OneDrive\Cursos\CSharp\Projetos\HotelCSharp\obj\Debug\net6.0\ref\HotelCSharp.dll
